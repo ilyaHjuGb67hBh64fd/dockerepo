@@ -1,7 +1,5 @@
 # dockerepo
-My docker
-Hello world
-That's all
+list docker
 end;
 
 // deleted
